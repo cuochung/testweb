@@ -1,0 +1,1 @@
+import{b as o,o as e,i as a,w as t,e as r,R as s,j as u,k as c,T as i}from"./vendor-6e9e6359.js";const m={__name:"index",setup(l){return o(null),(_,p)=>(e(),a(r(s),null,{default:t(({Component:n})=>[u(i,{name:"fade",mode:"out-in",appear:""},{default:t(()=>[(e(),a(c(n)))]),_:2},1024)]),_:1}))}};export{m as default};
